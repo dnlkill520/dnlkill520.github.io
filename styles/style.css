@@ -1,0 +1,49 @@
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    height: auto;
+}
+
+h1 {
+    color: white;
+    background-color: orange;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+}
+
+h3,
+form {
+    color: black;
+    text-align: center;
+}
+
+#result p.level {
+    color: blue; /* 设置字体颜色为蓝色 */
+    font-size: 50px; /* 设置字体大小为24像素 */
+}
+
+#result p.care-level {
+    color: gray; /* 设置字体颜色为灰色 */
+}
+
+#result p.care-time {
+    color: gray; /* 设置字体颜色为灰色 */
+    font-size: 15px;
+}
+
+#result p.care-way {
+    text-align: center;
+}
+
+#result p.care {
+    font-size: 15px;
+}
